@@ -5,7 +5,7 @@ End-to-end ML pipeline using **Apache Airflow** (DAG orchestration) and **MLflow
 ## Project Structure
 
 ```
-Assignment-2/
+Repository/
 ├── dags/
 │   └── mlops_airflow_mlflow_pipeline.py   # Airflow DAG
 ├── Titanic-Dataset.csv                     # Dataset
